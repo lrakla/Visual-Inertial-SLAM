@@ -1,4 +1,4 @@
-# Visual-SLAM
+# Visual Inertial SLAM
 
 ## Dataset
 10.npz
